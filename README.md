@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arunraina2502
+- 👋 Hi, I’m Arun Raina
 - 👀 I’m interested in sharing my work accumulated during my research years
 - 🌱 I’m always trying to learn something new, e.g. currently more about AI/GenAI uses in business
 - 💞️ I’m looking to collaborate on all interesting topics
